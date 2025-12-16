@@ -109,7 +109,7 @@ To understand profitability drivers based on products, customers, pricing, geogr
 1. Age-based customer profitability analysis
 
 Reference: 
-![Dashboard 1](https://github.com/shubhampancholi2805/excel-adventureworks-sales-dashboard/blob/main/Screenshot%202025-12-10%20022337.png)
+![Dashboard 1](https://github.com/shubhampancholi2805/excel-adventureworks-sales-dashboard/blob/main/Dashboard2.png)
 
 
 
