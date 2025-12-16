@@ -66,7 +66,7 @@ To track overall business performance and analyze profitability across time peri
 1. Day-wise profitability trends
 
 Reference :
-![Dashboard 1](https://github.com/shubhampancholi2805/excel-adventureworks-sales-dashboard/blob/main/Dashboard1_image.png)
+![Dashboard 1](https://github.com/shubhampancholi2805/excel-adventureworks-sales-dashboard/blob/main/Dashboard1.png)
 
 
 # Dashboard 2: Product, Customer & Demographic Insights
