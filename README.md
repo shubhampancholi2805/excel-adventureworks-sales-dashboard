@@ -1,10 +1,10 @@
 # AdventureWorks Sales Analysis (Excel Dashboard Project)
-## Project Overview
+**#Project Overview**
 
 This project focuses on sales performance analysis for Adventure Works, a fictional retail company, using Excel for data modeling, backend calculations, and interactive dashboards.
 The goal of this project is to analyze sales trends, profitability, customer behavior, and product performance, and present actionable business insights through two interactive dashboards built in Excel.
 
-#Tools & Skills Used
+ **#Tools & Skills Used**
 
 Microsoft Excel, 
 Pivot Tables & Pivot Charts, 
@@ -13,56 +13,57 @@ Pivot Tables & Pivot Charts,
 ,Data Modeling 
 ,Dashboard Design & KPI Reporting 
 
-#Dashboards Overview
+**#Dashboards Overview** 
 
 This project contains two dashboards, each placed on a separate worksheet within the same Excel file and designed to answer different business questions.
 
 # Dashboard 1: Sales Performance Overview & Time-Based Analysis
 
-##Purpose:
+**Purpose:**
 To track overall business performance and analyze profitability across time periods.
 
-## KPIs Included
+ ### **KPIs Included**
 
-### KPI Comparison to Previous Year
+### * KPI Comparison to Previous Year
 
-COGS
+1. COGS
 
-Revenue
+2. Revenue
 
-Quantity Sold
+3. Quantity Sold
 
-Profit
+4. Profit
 
-Profit Margin
+5. Profit Margin
 
-Transactions
+6. Transactions
+
+
+### * Yearly Performance Metrics (Above Average Years)
+
+1. Total Revenue
+
+2. Total Profit
+
+3. Total Transactions for years exceeding average performance
 
 
 
-### Yearly Performance Metrics (Above Average Years)
+### * Monthly Profit Trends
 
-Total Revenue
+1. Month-wise profit trend analysis
 
-Total Profit
+### * Profit by Week Type
 
-Total Transactions for years exceeding average performance
+ 1. Comparison between different week types
 
-### Monthly Profit Trends
+### * Quarterly Profit Analysis
 
-Month-wise profit trend analysis
+1. Quarter-wise profit evaluation
 
-### Profit by Week Type
+### * Profit by Weekday
 
-Comparison between different week types
-
-### Quarterly Profit Analysis
-
-Quarter-wise profit evaluation
-
-### Profit by Weekday
-
-Day-wise profitability trends
+1. Day-wise profitability trends
 
 Reference :
 ![Dashboard 1](https://github.com/shubhampancholi2805/excel-adventureworks-sales-dashboard/blob/main/Screenshot%202025-12-10%20022301.png)
@@ -70,42 +71,42 @@ Reference :
 
 # Dashboard 2: Product, Customer & Demographic Insights
 
-## Purpose:
+### Purpose:
 To understand profitability drivers based on products, customers, pricing, geography, and demographics.
 
-## KPIs Included
+### **KPIs Included**
 
-### Top 5 Profitable Products
+### * Top 5 Profitable Products
 
-Percentage contribution to total profits
+1. Percentage contribution to total profits
 
-Contribution of other products
+2. Contribution of other products
 
-### Top 5 Profitable Customers
+### * Top 5 Profitable Customers
 
-Percentage share of total profit
+1. Percentage share of total profit
 
-Contribution of remaining customers
+2. Contribution of remaining customers
 
-### Profit by Gender
+### * Profit by Gender
 
-Gender-wise profit distribution
+1. Gender-wise profit distribution
 
-### Profit by Product Color
+### * Profit by Product Color
 
-Identification of best-selling and most profitable colors
+1. Identification of best-selling and most profitable colors
 
-### Profit by Pricing Types
+### * Profit by Pricing Types
 
-Profit comparison across different pricing strategies
+1. Profit comparison across different pricing strategies
 
-### Country-wise Profit (Custom Map)
+### * Country-wise Profit (Custom Map)
 
-Geographical visualization of profit distribution
+1. Geographical visualization of profit distribution
 
-### Profit by Age Groups
+### * Profit by Age Groups
 
-Age-based customer profitability analysis
+1. Age-based customer profitability analysis
 
 Reference: 
 ![Dashboard 1](https://github.com/shubhampancholi2805/excel-adventureworks-sales-dashboard/blob/main/Screenshot%202025-12-10%20022337.png)
@@ -116,48 +117,47 @@ Reference:
 
 ## Dataset Information
 
-### Dataset:
+### * Dataset:
 FactInternetSales (AdventureWorks)
 
-### Source:
+### * Source:
 AdventureWorks sample sales data
 
-### Granularity:
+### * Granularity:
 Transaction-level internet sales data
 
-### Key Dimensions:
+### * Key Dimensions:
 
-Time
+1. Time
 
-Product
+2. Product
 
-Customer
+3. Customer
 
-Geography
+4. Geography
 
-Demographics
+5. Demographics
 
 
-## Key Business Insights
+### * Key Business Insights
 
-Identified high-performing years and seasonal profit trends
+1. Identified high-performing years and seasonal profit trends
 
-Highlighted top revenue- and profit-generating products and customers
+2. Highlighted top revenue- and profit-generating products and customers
 
-Analyzed demographic and geographic contribution to profitability
+3. Analyzed demographic and geographic contribution to profitability
 
-Evaluated pricing strategy effectiveness
+4. Evaluated pricing strategy effectiveness
 
-Enabled data-driven decision-making with interactive Excel dashboards
+5. Enabled data-driven decision-making with interactive Excel dashboards
 
 
 ## How to Use
 
-Download the Excel dashboard file
+**Download the Excel dashboard file**
 
 Open :
 [Click here to open the Dashboard Excel File ](https://github.com/shubhampancholi2805/excel-adventureworks-sales-dashboard/blob/main/Project2_FactInternetSales.xlsm)
 
 Navigate between Dashboard 1 and Dashboard 2 sheets
-
 Use slicers and filters to explore insights
