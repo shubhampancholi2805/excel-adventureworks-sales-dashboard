@@ -157,7 +157,7 @@ Transaction-level internet sales data
 **Download the Excel dashboard file**
 
 Open :
-[Click here to open the Dashboard Excel File ](https://github.com/shubhampancholi2805/excel-adventureworks-sales-dashboard/blob/main/Project2_FactInternetSales.xlsm)
+[Click here to open the Dashboard Excel File ](https://github.com/shubhampancholi2805/excel-adventureworks-sales-dashboard/blob/main/excel_project_FactInternetSales.xlsm)
 
 Navigate between Dashboard 1 and Dashboard 2 sheets
 Use slicers and filters to explore insights
